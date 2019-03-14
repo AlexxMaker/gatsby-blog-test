@@ -1,6 +1,6 @@
 ---
 title: "My second Blog post"
-description: This post is related to the gatsbyjs
+description: This post is related to the gatsbyjs motherfucker
 date: '2019-01-01'
 image: time.jpg
 ---
