@@ -1,6 +1,6 @@
 ---
 title: "My second Blog post"
-description: This post is related to the gatsbyjs motherfucker
+description: This post is related to the gatsbyjs motherfucker caca
 date: '2019-01-01'
 image: time.jpg
 ---
@@ -12,7 +12,7 @@ specimen book. It has survived not only five centuries, but also the leap into
 electronic typesetting, remaining essentially unchanged. It was popularised in
 the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
 and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.
+including versions of Lorem Ipsum. kllmmlkmlkmlkm Parasha Lenivaya Zhopa!
 
 ## Why do we use it?
 
